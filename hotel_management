@@ -38,9 +38,9 @@ void head() {
 clrscr();
 cout<<"������������������������������������������";
 cout<<"��������������������������������������";
-cout<<"?t\t\t\t\t\t\t\t\t       ?;
-cout<<"?t\t\t\t   XYZ Group of Hotels\t\t\t       ?;
-cout<<"?t\t\t\t\t\t\t\t\t       ?;
+cout<<"?t\t\t\t\t\t\t\t\t       ?";
+cout<<"?t\t\t\t   XYZ Group of Hotels\t\t\t       ?";
+cout<<"?t\t\t\t\t\t\t\t\t       ?";
 cout<<"������������������������������������������";
 cout<<"��������������������������������������";
 }
